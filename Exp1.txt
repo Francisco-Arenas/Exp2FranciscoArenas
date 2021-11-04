@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Todos los procesos estan en prueba
+=======
+Hola
+>>>>>>> master
