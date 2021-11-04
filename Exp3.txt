@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 Instalando nuevos codigos de busqueda
-=======
-ggreggergrgre
->>>>>>> master
